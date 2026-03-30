@@ -198,4 +198,20 @@ button:hover {
     flex-wrap: wrap;
     gap: 20px;
   }
+
+  #searchBook {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  #searchBook input {
+    width: 100%;
+    padding: 10px;
+  }
+
+  #searchSubmit {
+    width: 100%;
+    padding: 10px;
+  }
 }
